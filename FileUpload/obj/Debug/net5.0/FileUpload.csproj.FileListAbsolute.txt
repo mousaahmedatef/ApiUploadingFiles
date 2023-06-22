@@ -1,0 +1,46 @@
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\bin\Debug\net5.0\appsettings.Development.json
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\bin\Debug\net5.0\appsettings.json
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\bin\Debug\net5.0\FileUpload.exe
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\bin\Debug\net5.0\FileUpload.deps.json
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\bin\Debug\net5.0\FileUpload.runtimeconfig.json
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\bin\Debug\net5.0\FileUpload.runtimeconfig.dev.json
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\bin\Debug\net5.0\FileUpload.dll
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\bin\Debug\net5.0\ref\FileUpload.dll
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\bin\Debug\net5.0\FileUpload.pdb
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\obj\Debug\net5.0\FileUpload.csproj.AssemblyReference.cache
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\obj\Debug\net5.0\FileUpload.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\obj\Debug\net5.0\FileUpload.AssemblyInfoInputs.cache
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\obj\Debug\net5.0\FileUpload.AssemblyInfo.cs
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\obj\Debug\net5.0\FileUpload.csproj.CoreCompileInputs.cache
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\obj\Debug\net5.0\FileUpload.MvcApplicationPartsAssemblyInfo.cache
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\obj\Debug\net5.0\staticwebassets\FileUpload.StaticWebAssets.Manifest.cache
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\obj\Debug\net5.0\staticwebassets\FileUpload.StaticWebAssets.xml
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\obj\Debug\net5.0\scopedcss\bundle\FileUpload.styles.css
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\obj\Debug\net5.0\FileUpload.RazorTargetAssemblyInfo.cache
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\obj\Debug\net5.0\FileUpload.dll
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\obj\Debug\net5.0\ref\FileUpload.dll
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\obj\Debug\net5.0\FileUpload.pdb
+E:\FCAIH\course\eng ahmed elgendy\.net core\FileUpload\obj\Debug\net5.0\FileUpload.genruntimeconfig.cache
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\bin\Debug\net5.0\appsettings.Development.json
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\bin\Debug\net5.0\appsettings.json
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\bin\Debug\net5.0\FileUpload.exe
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\bin\Debug\net5.0\FileUpload.deps.json
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\bin\Debug\net5.0\FileUpload.runtimeconfig.json
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\bin\Debug\net5.0\FileUpload.runtimeconfig.dev.json
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\bin\Debug\net5.0\FileUpload.dll
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\bin\Debug\net5.0\ref\FileUpload.dll
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\bin\Debug\net5.0\FileUpload.pdb
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\obj\Debug\net5.0\FileUpload.csproj.AssemblyReference.cache
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\obj\Debug\net5.0\FileUpload.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\obj\Debug\net5.0\FileUpload.AssemblyInfoInputs.cache
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\obj\Debug\net5.0\FileUpload.AssemblyInfo.cs
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\obj\Debug\net5.0\FileUpload.csproj.CoreCompileInputs.cache
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\obj\Debug\net5.0\FileUpload.MvcApplicationPartsAssemblyInfo.cache
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\obj\Debug\net5.0\staticwebassets\FileUpload.StaticWebAssets.Manifest.cache
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\obj\Debug\net5.0\staticwebassets\FileUpload.StaticWebAssets.xml
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\obj\Debug\net5.0\scopedcss\bundle\FileUpload.styles.css
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\obj\Debug\net5.0\FileUpload.RazorTargetAssemblyInfo.cache
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\obj\Debug\net5.0\FileUpload.dll
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\obj\Debug\net5.0\ref\FileUpload.dll
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\obj\Debug\net5.0\FileUpload.pdb
+E:\FCAIH\course\eng ahmed elgendy\Api dealing with files\FileUpload\obj\Debug\net5.0\FileUpload.genruntimeconfig.cache
